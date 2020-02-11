@@ -8,6 +8,7 @@ import (
 	"fmt"
 )
 
+//test
 main(){
 	opaqueData := &anet.OpaqueData{} //parse post request into this
 	request := &anet.CreateTransaction{
